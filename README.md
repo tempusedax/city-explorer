@@ -1,3 +1,39 @@
+# Project Name
+
+**Author**: Marvin Bonds
+**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+
+## Overview
+I am building a site than can access the geo-location of a database by querying a server.
+
+## Getting Started
+Create a react app.
+Access a database.
+Create personal api key
+Add key to netlify
+
+## Architecture
+React
+
+## Change Log
+<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
+
+01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+
+## Credit and Collaborations
+Elizabeth Beale
+
+
+Name of feature: ________________________________
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
